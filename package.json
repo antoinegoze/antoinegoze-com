@@ -13,6 +13,6 @@
     "astro": "^7.1.0"
   },
   "devDependencies": {
-    "vercel": "^39.4.2"
+    "vercel": "^48.12.1"
   }
 }
